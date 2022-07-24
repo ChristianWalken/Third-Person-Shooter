@@ -1,6 +1,10 @@
 # Third-Person-Shooter
 An extremely basic demo of a third person shooter game 
 
+
+###NOTE: Currently an unfinished Project.
+
+
 ## Contributors
 Christian Penaflor <br />
 Cidney Ciacho <br />
@@ -14,10 +18,11 @@ Patrick Delos Reyes
 
 
 ## Goal:
-This program simulates the controls of a platformer in Unity <br />
+This program simulates the controls of a 3D Third Person Shooterin Unity <br />
+
 
 
 
 
 ## Screenshot of the Game
-![image](https://user-images.githubusercontent.com/42732095/180643943-c79657e4-7ca7-42da-bc1e-9479e3161d4c.png)
+![image](https://user-images.githubusercontent.com/42732095/180647529-d77e5dde-9091-4d48-84e5-2b6287eb058c.png)
