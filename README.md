@@ -3,7 +3,7 @@ An extremely basic demo of a third person shooter game
 
 
 ### NOTE: Currently an unfinished Project.
-
+ 
 
 ## Contributors
 Christian Penaflor <br />
