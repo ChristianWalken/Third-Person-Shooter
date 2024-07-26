@@ -8,7 +8,7 @@ An extremely basic demo of a third person shooter game
 ## Contributors
 Christian Penaflor <br />
 Cidney Ciacho <br />
-Patrick Delos Reyes
+Patrick de los Reyes
 
 
 ## Controls:
